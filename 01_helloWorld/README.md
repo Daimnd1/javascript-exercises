@@ -10,7 +10,7 @@ This setup should be similar for all of the exercises. The plain javascript file
 
 Let's look at the spec file first:
 ```javascript
-const helloWorld = require('./helloWorld');
+const heloWorld = require('./helloWorld');
 
 describe('Hello World', function() {
   test('says "Hello, World!"', function() {
